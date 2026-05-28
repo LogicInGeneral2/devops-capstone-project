@@ -1,5 +1,7 @@
 # devops-capstone-project
 
+![Build Status](https://github.com/LogicInGeneral2/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 This project is for the devops capstone project, by IBM.
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
